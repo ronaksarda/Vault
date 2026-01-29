@@ -1,0 +1,10 @@
+# Editor
+.vscode/
+
+# Build artifacts
+*.o
+vault
+vault.exe
+
+# Runtime data
+vaults/
