@@ -1,10 +1,14 @@
-# Editor
-.vscode/
-
 # Build artifacts
+*.exe
 *.o
-vault
-vault.exe
+*.out
+bin/
 
-# Runtime data
-vaults/
+# Application data
+Vaults_folder/
+data/
+
+# IDE/OS files
+.vscode/
+.idea/
+.DS_Store
